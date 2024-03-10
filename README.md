@@ -2,11 +2,11 @@
 
 Real Estate Price Prediction is the process of estimating or forecasting the future prices of real estate properties, such as houses, apartments, or commercial buildings. The goal is to provide accurate property rates to buyers, sellers, investors, and real estate professionals to make informed decisions about real estate transactions.
 
-If you want to learn how to predict real estate prices, this project is for you. In this repository, we implement Real Estate Price Prediction with Machine Learning using Python.
+If you want to learn how to predict real estate prices, this project is for you. In this repository, I implement Real Estate Price Prediction with Machine Learning using Python.
 
 ## Project Overview
 
-### Process We Follow
+### Process I Follow 
 
 Below is the process we follow for real estate price prediction to help individuals and businesses make informed decisions in the real estate market:
 
